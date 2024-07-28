@@ -46,10 +46,6 @@ This is a simple RSA encryption and decryption application with a graphical user
 2. **Encrypt Message**: Enter the plaintext message in the provided input field and click the "Encrypt" button. The encrypted message will be displayed in the text area below.
 3. **Decrypt Message**: Enter the ciphertext message in the provided input field and click the "Decrypt" button. The decrypted message will be displayed in the text area below.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more information.
-
 ## Acknowledgements
 
 - [Qt](https://www.qt.io/) - Cross-platform software development for embedded & desktop.
